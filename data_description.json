@@ -1,0 +1,14 @@
+{
+    "Year": {
+        "type": "int",
+        "description": "The calendar year for the observation, ranging from 2001 to 2020"
+    },
+    "Primary Enrollment": {
+        "type": "float",
+        "description": "Total number of students enrolled in primary education in Brazil"
+    },
+    "GDP per Capita": {
+        "type": "float",
+        "description": "Gross Domestic Product per capita in current US dollars for Brazil"
+    }
+}
